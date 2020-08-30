@@ -1,3 +1,6 @@
 [submodule "main/themes/ananke"]
 	path = main/themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "main/themes/meme"]
+	path = main/themes/meme
+	url = https://github.com/reuixiy/hugo-theme-meme.git
