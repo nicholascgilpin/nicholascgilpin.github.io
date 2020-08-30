@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Nick&#39;s Digital Dreams</title>
-    <link>http://nicholasgilpin.com/tags/</link>
-    <description>Recent content in Tags on Nick&#39;s Digital Dreams</description>
+    <title>Tags on Hugo Theme MemE</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Hugo Theme MemE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+    <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+    <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
     
-	<atom:link href="http://nicholasgilpin.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
