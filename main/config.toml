@@ -1,18 +1,18 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://example.com/"
-title = "Hugo Theme MemE"
+baseURL = "https://nicholasgilpin.com/"
+title = "Nick's Digital Dreams"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
+copyright = ""
 
 # Name of theme
 theme = "meme"
 
 # `hugo new` automatically opened text editor
-newContentEditor = ""
+newContentEditor = "code"
 
 # i18n
 defaultContentLanguage = "en"
@@ -22,10 +22,10 @@ defaultContentLanguageInSubdir = false
 pluralizeListTitles = false
 
 # The length of text in words to show in summary
-summaryLength = 42
+summaryLength = 140
 
 # Enable Emoji emoticons support?
-enableEmoji = false
+enableEmoji = true
 
 # Text to display for footnote return links
 footnoteReturnLinkContents = "↩"
@@ -39,7 +39,7 @@ enableRobotsTXT = true
 # Number of items per page in paginated
 # lists (valid for the `posts` homepage
 # layout in MemE)
-paginate = 5
+paginate = 1
 
 # URL related
 disablePathToLower = false
@@ -94,17 +94,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "Nicholas Gilpin"
     # Email
-    email = "reuixiy@gmail.com"
+    email = ""
     # Motto or introduction
-    motto = "Viva La Vida"
+    motto = ""
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
+    website = ""
     # Twitter
-    twitter = "reuixiy"
+    twitter = ""
 
 # Related content
 [related]
@@ -203,18 +203,18 @@ uglyURLs = false
         weight = 2
         pre = "internal"
         post = "archive"
-    [[menu.main]]
-        url = "/categories/"
-        name = "Categories"
-        weight = 3
-        pre = "internal"
-        post = "th"
-    [[menu.main]]
-        url = "/tags/"
-        name = "Tags"
-        weight = 4
-        pre = "internal"
-        post = "tags"
+    #    [[menu.main]]
+    #        url = "/categories/"
+    #        name = "Categories"
+    #        weight = 3
+    #        pre = "internal"
+    #        post = "th"
+    #   [[menu.main]]
+    #       url = "/tags/"
+    #       name = "Tags"
+    #       weight = 4
+    #       pre = "internal"
+    #       post = "tags"
     [[menu.main]]
         url = "/about/"
         name = "About"
@@ -338,15 +338,15 @@ uglyURLs = false
     siteLogo = "/icons/apple-touch-icon.png"
     # Note: used for JSON-LD, Open Graph
 
-    siteDescription = "MemE is a powerful and highly customizable GoHugo theme for personal blogs."
+    siteDescription = " A well rounded software engineer with skills in entrepreneurship, devops, machine learning, robotics, web, and distributed computing. "
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2020-08-20T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
-    siteTwitter = "reuixiy"
+    siteTwitter = ""
     # Note: used for Twitter Cards
 
 
@@ -565,8 +565,8 @@ uglyURLs = false
     # HTML Head Meta, SEO & Social Discovery
 
     jsonLD = true
-    openGraph = true
-    twitterCards = true
+    openGraph = false
+    twitterCards = false
     # ATTENTION: If you set twitterCards
     #            to `true`, be sure to
     #            enable openGraph also.
@@ -591,7 +591,7 @@ uglyURLs = false
     # Note: render only in production
     #       environment
 
-    enableServiceWorker = false
+    enableServiceWorker = true
 
 
     ######################################
@@ -764,17 +764,17 @@ uglyURLs = false
     displayPublishedDate = true
     publishedDateIcon = "calendar-alt"
 
-    displayModifiedDate = true
+    displayModifiedDate = false
     modifiedDateIcon = "calendar-check"
 
     displayExpiredDate = true
     expiredDateIcon = "calendar-times"
 
-    displayCategory = true
+    displayCategory = false
     categoryIcon = "folder"
     categoryDelimiter = "/"
 
-    displayWordCount = true
+    displayWordCount = false
     wordCountIcon = "pencil-alt"
 
     displayReadingTime = true
@@ -1117,12 +1117,12 @@ uglyURLs = false
     shareOnFacebook = true
     shareOnLinkedIn = true
     shareOnTelegram = true
-    shareOnWeibo = true
-    shareOnDouban = true
-    shareOnQQ = true
-    shareOnQzone = true
+    shareOnWeibo = false
+    shareOnDouban = false
+    shareOnQQ = false
+    shareOnQzone = false
 
-    shareViaQRCode = true
+    shareViaQRCode = false
 
 
     ######################################
@@ -1210,15 +1210,15 @@ uglyURLs = false
 
     # Leave it empty("") if you don’t want
     # the icon
-    iconBetweenYearAndAuthor = "heart"
+    iconBetweenYearAndAuthor = ""
     iconColor = "#f06292"
     # Enable heartbeat animation?
-    iconAnimation = true
+    iconAnimation = false
 
     # Display links to Hugo and MemE?
-    displayPoweredBy = true
+    displayPoweredBy = false
 
-    displaySiteCopyright = true
+    displaySiteCopyright = false
 
     # Custom Footer (Markdown supported)
     customFooter = ""
@@ -1235,7 +1235,7 @@ uglyURLs = false
     #       https://busuanzi.ibruce.info/
 
     # Socials
-    enableSocials = true
+    enableSocials = false
     # Note: see data/Socials.toml
 
 
