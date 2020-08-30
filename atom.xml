@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nick&#39;s Digital Dreams</title>
     <subtitle type="html"> A well rounded software engineer with skills in entrepreneurship, devops, machine learning, robotics, web, and distributed computing. </subtitle>
-    <updated>2020-08-30T00:16:38-05:00</updated>
+    <updated>2020-08-30T15:18:39-05:00</updated>
     <id>https://nicholasgilpin.com/</id>
     <link rel="alternate" type="text/html" href="https://nicholasgilpin.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://nicholasgilpin.com/atom.xml" />
@@ -18,7 +18,7 @@
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://nicholasgilpin.com/posts/my-first-post/" />
             <id>https://nicholasgilpin.com/posts/my-first-post/</id>
-            <updated>2020-08-29T23:40:25-05:00</updated>
+            <updated>2020-08-30T15:17:31-05:00</updated>
             <published>2020-08-29T12:52:24-05:00</published>
             <author>
                     <name>Nicholas Gilpin</name>
