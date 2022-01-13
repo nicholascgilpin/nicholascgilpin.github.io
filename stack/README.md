@@ -9,6 +9,7 @@ Execute these commands from Ubuntu at the project's root folder directory.
 ```bash
     sudo apt-get install -y hugo git
     sudo apt-get install ./stack/linux/git-lfs_2.11.0_amd64.deb
+    # lfs is required by Github
     git lfs install
     sudo tar -C /usr/local/ -xzf stack/linux/go1.17.6.linux-amd64.tar.gz
     export PATH=$PATH:/usr/local/go/bin
