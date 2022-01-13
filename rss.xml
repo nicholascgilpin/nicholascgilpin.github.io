@@ -17,10 +17,46 @@
         
         
         
-        <lastBuildDate>Sun, 30 Aug 2020 15:18:39 -0500</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 21:30:05 -0600</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://nicholasgilpin.com/rss.xml" />
         
+        
+            <item>
+                <title>Free Ideas</title>
+                <link>https://nicholasgilpin.com/posts/free-ideas/</link>
+                <guid isPermaLink="true">https://nicholasgilpin.com/posts/free-ideas/</guid>
+                <pubDate>Wed, 12 Jan 2022 20:54:48 -0600</pubDate>
+                
+                
+                
+                    <description>&lt;p&gt;My brain has a really neat feature. Each time I learn something new, I&amp;rsquo;m reminded of everything I know that&amp;rsquo;s similar to the concept I&amp;rsquo;m learning. Quite often, the fusion of these ideas will result in an interesting project idea. However, I&amp;rsquo;m a very busy person, so there&amp;rsquo;s no time to do all of the projects that I think of. The following lists are ideas that I want to see built, but don&amp;rsquo;t have time to build.&lt;/p&gt;
+&lt;p&gt;Machine Learning:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Flavor Space (10 hour): Word embeddings, but for the cooking ingredients in recipes. For creating new recipes quickly. An example application would generate substitute ingredients on the fly or recommend a good ingredient pairing on the fly.&lt;/li&gt;
+&lt;li&gt;Semantics Highlighting (10 hour): Syntax highlighting, but for natural language using word embeddings mapped to a colorspace. It might make reading easier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Social:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple Buddy Search (1 hour): People fill out a form with lots of checkboxes detailing their interests. A set of most similar other people is returned via a nearest neighbor vector search (dot product). For finding friends quickly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Robotics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tortoise Rover (100 hour): A solar power robot tortoise that scoots around and live streams its journey. Why? It&amp;rsquo;s just cool, OK? Also, the tortoise shape seems well adapted to roving with the robotics industry&amp;rsquo;s current level of technology.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Hello World</title>
