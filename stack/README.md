@@ -7,7 +7,7 @@ I'm planning on living a long time; at least 20 or more years. However, I don't 
 Execute these commands from Ubuntu at the project's root folder directory.
 
 ```bash
-    sudo apt-get install -y hugo git
+    sudo apt-get install -y hugo git git-lfs
     sudo apt-get install ./stack/linux/git-lfs_2.11.0_amd64.deb
     # lfs is required by Github
     git lfs install
