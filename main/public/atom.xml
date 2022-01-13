@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Nick&#39;s Digital Dreams</title>
     <subtitle type="html"> A well rounded software engineer with skills in entrepreneurship, devops, machine learning, robotics, web, and distributed computing. </subtitle>
-    <updated>2020-08-30T15:18:39-05:00</updated>
+    <updated>2022-01-12T21:30:05-06:00</updated>
     <id>https://nicholasgilpin.com/</id>
     <link rel="alternate" type="text/html" href="https://nicholasgilpin.com/" />
     <link rel="self" type="application/atom&#43;xml" href="https://nicholasgilpin.com/atom.xml" />
@@ -15,10 +15,52 @@
     
     <generator uri="https://gohugo.io/" version="0.68.3">Hugo</generator>
         <entry>
+            <title type="text">Free Ideas</title>
+            <link rel="alternate" type="text/html" href="https://nicholasgilpin.com/posts/free-ideas/" />
+            <id>https://nicholasgilpin.com/posts/free-ideas/</id>
+            <updated>2022-01-12T20:57:30-06:00</updated>
+            <published>2022-01-12T20:54:48-06:00</published>
+            <author>
+                    <name>Nicholas Gilpin</name>
+                    <uri>https://nicholasgilpin.com/</uri>
+                    </author>
+            <summary type="html">My brain has a really neat feature. Each time I learn something new, I&amp;rsquo;m reminded of everything I know that&amp;rsquo;s similar to the concept I&amp;rsquo;m learning. Quite often, the fusion of these ideas will result in an interesting project idea. However, I&amp;rsquo;m a very busy person, so there&amp;rsquo;s no time to do all of the projects that I think of. The following lists are ideas that I want to see built, but don&amp;rsquo;t have time to build.
+Machine Learning:
+ Flavor Space (10 hour): Word embeddings, but for the cooking ingredients in recipes. For creating new recipes quickly. An example application would generate substitute ingredients on the fly or recommend a good ingredient pairing on the fly. Semantics Highlighting (10 hour): Syntax highlighting, but for natural language using word embeddings mapped to a colorspace. It might make reading easier.  Social:</summary>
+            
+                <content type="html">&lt;p&gt;My brain has a really neat feature. Each time I learn something new, I&amp;rsquo;m reminded of everything I know that&amp;rsquo;s similar to the concept I&amp;rsquo;m learning. Quite often, the fusion of these ideas will result in an interesting project idea. However, I&amp;rsquo;m a very busy person, so there&amp;rsquo;s no time to do all of the projects that I think of. The following lists are ideas that I want to see built, but don&amp;rsquo;t have time to build.&lt;/p&gt;
+&lt;p&gt;Machine Learning:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Flavor Space (10 hour): Word embeddings, but for the cooking ingredients in recipes. For creating new recipes quickly. An example application would generate substitute ingredients on the fly or recommend a good ingredient pairing on the fly.&lt;/li&gt;
+&lt;li&gt;Semantics Highlighting (10 hour): Syntax highlighting, but for natural language using word embeddings mapped to a colorspace. It might make reading easier.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Social:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple Buddy Search (1 hour): People fill out a form with lots of checkboxes detailing their interests. A set of most similar other people is returned via a nearest neighbor vector search (dot product). For finding friends quickly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Robotics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tortoise Rover (100 hour): A solar power robot tortoise that scoots around and live streams its journey. Why? It&amp;rsquo;s just cool, OK? Also, the tortoise shape seems well adapted to roving with the robotics industry&amp;rsquo;s current level of technology.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">Hello World</title>
             <link rel="alternate" type="text/html" href="https://nicholasgilpin.com/posts/my-first-post/" />
             <id>https://nicholasgilpin.com/posts/my-first-post/</id>
-            <updated>2020-08-30T15:17:31-05:00</updated>
+            <updated>2022-01-12T20:44:53-06:00</updated>
             <published>2020-08-29T12:52:24-05:00</published>
             <author>
                     <name>Nicholas Gilpin</name>

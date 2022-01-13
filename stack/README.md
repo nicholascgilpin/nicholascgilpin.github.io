@@ -41,6 +41,9 @@ nano config.toml
 # Serve locally (use -D to show drafts)
 hugo server
 
-# Deploy
+# Build and Deploy
+cd main/
+hugo
+cd ..
 git subtree push --prefix main/public/ origin gh-pages
 ```
