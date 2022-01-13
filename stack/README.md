@@ -25,9 +25,11 @@ Execute these commands from Ubuntu at the project's root folder directory.
 hugo new site quickstart
 cd quickstart/
 
-# Download and enable theme
+# Download and enable theme (First time only)
 git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
 echo 'theme = "ananke"' >> config.toml
+# If cloning with existing theme
+git submodule update --init --recursive
 
 # Make post
 hugo new posts/my-first-post.md
